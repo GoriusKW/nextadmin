@@ -1,0 +1,24 @@
+
+.container {
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+margin-top: 10px;
+color: var(--textSoft);
+}
+
+.logo {
+color: var(--textSoft);
+}
+
+.endtext {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+
+.logo {
+    font-size: 14px;
+    font-weight: 700;
+}
